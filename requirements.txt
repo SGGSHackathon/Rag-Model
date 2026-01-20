@@ -1,0 +1,17 @@
+python-dotenv==1.1.0
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+requests==2.32.3
+
+langchain==0.3.26
+langchain-core==0.3.83
+langchain-community==0.3.26
+langchain-openai==0.3.24
+langchain-pinecone==0.2.8
+langchain-huggingface==0.3.1
+
+sentence-transformers==4.1.0
+torch==2.9.0
+
+pinecone==7.3.0
+tiktoken>=0.7.0
